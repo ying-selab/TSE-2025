@@ -1,4 +1,6 @@
-**Title: How Can ChatGPT Support Human Security Testers to Help Mitigate Supply Chain Attacks? (IEEE Transactions on Software Engineering (TSE) 2025)**
+# **How Can ChatGPT Support Human Security Testers to Help Mitigate Supply Chain Attacks?**  *(IEEE Transactions on Software Engineering, 2025)*
+
+
 
 The .xlsx file contains four sheets documenting library projects and the client projects that depend on them (including links to the corresponding GitHub branches).
 
